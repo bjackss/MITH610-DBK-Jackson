@@ -5,7 +5,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>BackTalk</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -17,10 +17,10 @@
   </teiHeader>
   <text>
       <body>
- <div><p>Swing
+ <div type= "article"><p>Swing
    Editor:
 I have just finished reading
-the November 13th <sic>Racktalk</sic>
+the <date when=" 1953-11-13" >November 13th</date> <sic>Racktalk</sic>
 column. This fuss over the jazz
 issue has been very amusing,
 very interesting, and also very
@@ -64,7 +64,7 @@ tunities arise for such.</p>
 <p>Which music is the oldest?
 Dixieland by about 30 years.
 Progressive jazz was introduced
-bv the swing bands of the 19305.
+bv the swing bands of the <date><sic>19305</sic></date>.
 Which music is the best? Like
 every other debatable question
 in the world, that is strictly up
@@ -103,7 +103,7 @@ quite sure that such representa­
 tive Progressive musicians as
 <persName>Jack Holiday</persName>, <persName>Charley Walp</persName>,
 <persName>Mert Oliver</persName>, <persName>Marky Markowitz</persName>,
-and Joe Theimer are not at all
+and <persName>Joe Theimer</persName> are not at all
 happy about being so grossly
 mis-represented by a pack of
 high-schoolish zelots, such as
@@ -113,7 +113,7 @@ supposedly v“cool” people would
 have been exceedingly embar­
 rassed by the comments I re­
 received when I showed their
-ridiculous letter to Marky and
+ridiculous letter to <persName>Marky</persName> and
 some of the other musicians.
 And finally, the so called
 “hip” language is strictly passe
