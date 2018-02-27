@@ -17,9 +17,10 @@
   </teiHeader>
   <text>
       <body>
- <div><p>Editor:
+ <div><p>Swing
+   Editor:
 I have just finished reading
-the November 13th Racktalk
+the November 13th <sic>Racktalk</sic>
 column. This fuss over the jazz
 issue has been very amusing,
 very interesting, and also very
@@ -50,7 +51,7 @@ musicians are highly artistic
 and do not rely on orchestra­
 tions or arrangements. Nor do
 they have or need a director. If
-anyone wishes to “sit ip” and
+anyone wishes to “sit <sic>ip</sic>” and
 listen, they «re welcome. The
 characteristics of a jazz band
 of this sort are: smallness (usu­
@@ -72,7 +73,7 @@ favoritism to the Progressives.
 After all they want it the most.
 I also suggest the matter be
 dropped.
-Richard Fdererick.</p>
+<persName>Richard <sic>Fdererick</sic></persName>.</p>
 <p>Sway
 Editor:
 Although I don’t wish to per­
@@ -96,18 +97,18 @@ has contributed so greatly to the
 development of Progressive jazz
 as has Dixieland.</p>
 <p>Thirdly, knowing many of the
-members of the Conover-Theimer
-“Dig Rand” personally, I’m
+members of the <orgName>Conover-Theimer
+<sic>“Dig Rand”</sic></orgName> personally, I’m
 quite sure that such representa­
 tive Progressive musicians as
-Jack Holiday, Charley Walp,
-Mert Oliver, Marky Markowitz,
+<persName>Jack Holiday</persName>, <persName>Charley Walp</persName>,
+<persName>Mert Oliver</persName>, <persName>Marky Markowitz</persName>,
 and Joe Theimer are not at all
 happy about being so grossly
 mis-represented by a pack of
 high-schoolish zelots, such as
 those letter writers of last Fri­
-day’s DRK issue. In factxthose
+day’s <orgName><sic>DRK</sic></orgName> issue. In factxthose
 supposedly v“cool” people would
 have been exceedingly embar­
 rassed by the comments I re­
@@ -130,7 +131,7 @@ fad, and they have largely
 abandoned the useage of what is
 rightfully their own.
 See you around,
-Ted Smith, MS Senior</p></div>
+<persName>Ted Smith</persName>, MS Senior</p></div>
       </body>
   </text>
 </TEI>
