@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information  about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+      Editor:
+I have just finished reading
+the November 13th Racktalk
+column. This fuss over the jazz
+issue has been very amusing,
+very interesting, and also very
+idiotic. Although I am a Dixie­
+land fan (“fig” to the modern
+cats), I am not trying to sell
+my interests to anyone. I would,
+however, like to clear up loose
+and sloppy ends.
+Modern jazz is definitely a
+progressive form of music. It is
+directly connected to commer­
+cialism, big bands, arrange­
+ments and the public. The par­
+ticipants in a modern jazz band
+play to and for the people.
+Their style of music is high­
+strung, fast and loud. Its
+uniqueness is the installment of
+new sounds and an inexhaust­
+ible supply of new songs, all of
+which sound exactly the same to
+anybody other than the “gates”
+who dig the stuff.
+On the other hand, Dixieland
+is a backstreet sort of jazz. The
+musicians are highly artistic
+and do not rely on orchestra­
+tions or arrangements. Nor do
+they have or need a director. If
+anyone wishes to “sit ip” and
+listen, they «re welcome. The
+characteristics of a jazz band
+of this sort are: smallness (usu­
+ally limited to six players), an
+inter-play of slow blues, rag­
+time, and fast, bouncy tunes, and
+complete independence to use
+solos and adlibs as the oppor­
+tunities arise for such.
+Which music is the oldest?
+Dixieland by about 30 years.
+Progressive jazz was introduced
+bv the swing bands of the 19305.
+Which music is the best? Like
+every other debatable question
+in the world, that is strictly up
+to the individual. I concede any
+favoritism to the Progressives.
+After all they want it the most.
+I also suggest the matter be
+dropped.
+Richard Fdererick.
+Sway
+Editor:
+Although I don’t wish to per­
+petuate the dixieland vsv Pro
+gressive Jazz hassle brewing on
+campus I feel, as do many
+others, that such infantile state­
+ments as those printed in recent
+issues of the DRK deserve some'
+comment.
+In the first place, it is exactly
+such obnoxious remarks as those
+made by pseudo-hip progres­
+sivites that taint the whole
+realm of Progressive jazz. Any
+real jazz fan deserving of re­
+cognition would never be so
+dogmatic or un-enlightened as to
+scorn a musical movement which
+has contributed so greatly to the
+development of Progressive jazz
+as has Dixieland.
+Secondly, Progressive jazz is
+not “Re-Rop”, nor is it just an
+incomprehensible variation on
+“Swing”. Rather, it is a whole
+new field opening up wide hori­
+zons of artistic and intuitive
+improvization; and it is notice­
+ably founded on a high degree
+of technical musicianship and a
+deep respect for Symphonic and
+Classical arrangement. Good de­
+finitions of the essence of this,
+movement have been offered by
+Dave Rrubeck nationally in
+“Downbeat” magazine and by
+Willis Conover locally in a
+three - week “Times - Heral''
+series, but even these are subjc -t
+to individual taste and interpre­
+tation. Quote the inimitable
+Louis Armstrong when asked
+for a definition of Jazz: “Yr',
+always asks, but ’cha never gets
+t’ know”.
+Thirdly, knowing many of the
+members of the Conover-Theimer
+“Dig Rand” personally, I’m
+quite sure that such representa­
+tive Progressive musicians as
+Jack Holiday, Charley Walp,
+Mert Oliver, Marky Markowitz,
+and Joe Theimer are not at all
+happy about being so grossly
+mis-represented by a pack of
+high-schoolish zelots, such as
+those letter writers of last Fri­
+day’s DRK issue. In factxthose
+supposedly v“cool” people would
+have been exceedingly embar­
+rassed by the comments I re­
+received when I showed their
+ridiculous letter to Marky and
+some of the other musicians.
+And finally, the so called
+“hip” language is strictly passe
+except for such ostentatious
+pseudos who would like to feel
+that they belong to the jazz
+world. Musicians, who have
+invented and used their own
+specialized universal terms and
+sayings for over 30 years, are
+now appalled by the commer­
+cialization and cliqueism which
+has become an adolescent-like
+fad, and they have largely
+abandoned the useage of what is
+rightfully their own.
+See you around,
+Ted Smith, MS Senior.
+      </body>
+  </text>
+</TEI>
