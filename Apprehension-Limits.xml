@@ -58,7 +58,19 @@
          <date when="2018-03-05">March 5, 2018</date>
          </publicationStmt>
          <sourceDesc>
-            <p>Information  about the source</p>
+            <bibl>
+              <title>Diamonback</title>
+              <author>
+                <forename>Hollace</forename>
+                <surname>Goldberg</surname>
+              </author>
+              <publisher><orgName></orgName></publisher>
+                <pubPlace>
+                  <settlement></settlement>
+                  <region></region>
+                </pubPlace>
+                <date when="1967-01-09">January 9, 1967</date>
+            </bibl>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
@@ -188,7 +200,7 @@
           nothing against me, but they
           stared as if they didn’t expect
           to see a Negro in their group."
-          “I used to live in <placeName>Philadelphia</placeName>,"</quote>
+          “I used to live in <settlement>Philadelphia</settlement>,"</quote>
           <persName>Donna</persName> continued. <quote>"I was in the
           minority. . .so I got used to the
           feeling of being the only one there
@@ -355,9 +367,9 @@
       </div>
 
       <div>
-        <p>This year another girl, <persName>Sharon</persName>,
+        <p>This year another girl, <persName><forname>Sharon</forname></persName>,
       signed up for rush. Cute, petite
-      and well-dressed, <persName>Sharon</persName> said
+      and well-dressed, <persName><forename>Sharon</forename></persName> said
       she went through rush because
       she had taken it for granted that
       <quote>“you go to college, and you join
@@ -367,18 +379,18 @@
       <div>
         <p><quote>“I was disappointed not to see
       some Negroes in the sororities,"</quote>
-      she said. <quote>“Out of 18 sororities,
+      <persName type="Sharon">she</persName> said. <quote>“Out of 18 sororities,
       you would expect to see one. I
       was shocked. Especially on a
       campus this size. Rush was sup­posed to be so open and all,"</quote></p>
       </div>
 
       <div>
-        <p>During rush, she reports,
+        <p>During rush, <persName type="Sharon">she</persName> reports,
       <quote>“everybody was nice."</quote> After open
       house she was Invited back to ten
       houses. But for <quote>“set of four"</quote>
-      parties, she received no return
+      parties, <persName type="Sharon">she</persName> received no return
       bids.</p>
       </div>
 
