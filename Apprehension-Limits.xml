@@ -5,7 +5,14 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Apprehension Limits Racial Interaction</title>
+            <title type="main">Apprehension Limits Racial Interaction</title>
+            <title type="sub">Negroes Note White Preconceptions</title>
+            <title type="sub">Digital Edition</title>
+            <author>Hollace Goldberg</author>
+            <respStmt>
+              <resp>encoded by </resp>
+              <persName>Benjamin Jackson</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -61,13 +68,13 @@
         </div>
 
         <div>
-          <p>The Negroes compose a hete­rogeneous population, <sic>demarcaed</sic> from the rest of the student
+          <p>The Negroes compose a hete­rogeneous population, <choice> <sic>demarcaed</sic> <corr>demarcated</corr> </choice>from the rest of the student
         body by skin color and/or a few
         tables in the <placeName>Main Dining Hall</placeName>
         or the <placeName>Student Union</placeName>. The Negro
         students’ views are varied, their
         experiences largely dissimilar,
-        and even their skin <sic>topes</sic> are of
+        and even their skin <choice> <sic>topes</sic> <corr>tones</corr> </choice> are of
         different shades.</p>
         </div>
 
@@ -129,7 +136,7 @@
           with me, I just wish that before
           each desert they’d make a list of
           girls who won’t dance with me so
-          <sic>m</sic> know."</quote></p>
+          <choice> <sic>m</sic> <corr>I'll</corr> </choice> know."</quote></p>
         </div>
 
         <div>
@@ -226,7 +233,7 @@
       <div>
         <p><persName type="unidentified">Another student</persName> added that
       although Negroes have been
-      <quote><sic>“shunner"</sic></quote> from <quote>“going into fra­ternities, “I would not join a
+      <quote> <choice> <sic>“shunner"</sic> <corr>"shunned"</corr> </choice> </quote> from <quote>“going into fra­ternities, “I would not join a
       fraternity simply (only) because
       it was black."</quote></p>
       </div>
