@@ -8,14 +8,54 @@
             <title type="main">Apprehension Limits Racial Interaction</title>
             <title type="sub">Negroes Note White Preconceptions</title>
             <title type="sub">Digital Edition</title>
-            <author>Hollace Goldberg</author>
+            <author>
+              <forename>Benjamin</forename>
+               <surname>Jackson</surname>
+             </author>
             <respStmt>
-              <resp>encoded by </resp>
-              <persName>Benjamin Jackson</persName>
+              <resp>encoded by</resp>
+              <persName>
+                <forename>Benjamin</forename>
+                <surname>Jackson</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>Original TEI template provided by</resp>
+              <persName>
+                <forename>Raffaele</forename>
+                <surname>Viglianti</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>Extensive TEI Header example provided by</resp>
+                <persName>
+                  <forename>Jessica</forename>
+                  <surname>Lu</surname>
+                </persName>
+            </respStmt>
+            <respStmt>
+              <resp>TEI instruction provided through</resp>
+              <orgName>MITH</orgName>
+            </respStmt>
+            <respStmt>
+              <resp>Source material archived and provided by</resp>
+              <orgName>University Archives
+                <placeName>University of Maryland
+                  <settlement>College Park</settlement>
+                  <region>Maryland</region>
+                </placeName>
+              </orgName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+           <publisher>
+             <orgName>African American History, Culture, and Digital Humanities</orgName>
+           </publisher>
+           <pubPlace>
+             <settlement>College Park</settlement>
+             <region>Maryland</region>
+           </pubPlace>
+         <date when="2018-03-05">March 5, 2018</date>
          </publicationStmt>
          <sourceDesc>
             <p>Information  about the source</p>
@@ -34,7 +74,7 @@
           made up for convenience."</quote>
           <quote>“No, our culture is different,"</quote>
           projected <persName type="unidentified">a dark-skinned boy</persName>.
-          •<quote>It’s composed of <persName>James Brown</persName>
+          •<quote>It’s composed of <persName><forename>James</forename><surname>Brown</surname></persName>
           and the Supremes."</quote>
           •<quote>They stare at me in class when
           we discuss slavery or <placeName>Africa</placeName>,"</quote>
@@ -45,7 +85,7 @@
           cursing the University under her
           breath. This was <persName>Doris</persName>, a dis­satisfied Negro, bitter towards
           her four years at <placeName>the University</placeName>.
-          <persName>Doris</persName> sells Black power but­
+          <persName><forename>Doris</forename></persName> sells Black power but­
           tons, <quote>“a quarter for Negroes, a
           dollar for whites."</quote></p>
         </div>
