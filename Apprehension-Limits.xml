@@ -59,15 +59,15 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-              <title>Diamonback</title>
+              <title>The Diamonback</title>
               <author>
                 <forename>Hollace</forename>
                 <surname>Goldberg</surname>
               </author>
-              <publisher><orgName></orgName></publisher>
+              <publisher><orgName>The Diamondback</orgName></publisher>
                 <pubPlace>
-                  <settlement></settlement>
-                  <region></region>
+                  <settlement>College Park</settlement>
+                  <region>Maryland</region>
                 </pubPlace>
                 <date when="1967-01-09">January 9, 1967</date>
             </bibl>
@@ -367,7 +367,7 @@
       </div>
 
       <div>
-        <p>This year another girl, <persName><forname>Sharon</forname></persName>,
+        <p>This year another girl, <persName><forename>Sharon</forename></persName>,
       signed up for rush. Cute, petite
       and well-dressed, <persName><forename>Sharon</forename></persName> said
       she went through rush because
