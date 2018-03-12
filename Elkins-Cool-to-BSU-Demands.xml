@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Reflections in Black</title>
+            <title type="sub">Black Students Protest for Real</title>
+            <title type="sub">Digital Edition</title>
+            <author>
+              <forename>Benjamin</forename>
+               <surname>Jackson</surname>
+             </author>
+            <respStmt>
+              <resp>encoded by</resp>
+              <persName>
+                <forename>Benjamin</forename>
+                <surname>Jackson</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>Original TEI template provided by</resp>
+              <persName>
+                <forename>Raffaele</forename>
+                <surname>Viglianti</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>Extensive TEI Header example provided by</resp>
+                <persName>
+                  <forename>Jessica</forename>
+                  <surname>Lu</surname>
+                </persName>
+            </respStmt>
+            <respStmt>
+              <resp>TEI instruction provided through</resp>
+              <orgName>MITH</orgName>
+            </respStmt>
+            <respStmt>
+              <resp>Source material archived and provided by</resp>
+              <orgName>University Archives
+                <placeName>University of Maryland
+                  <settlement>College Park</settlement>
+                  <region>Maryland</region>
+                </placeName>
+              </orgName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+           <edition n= "1">First edition</edition>
+         </editionStmt>
+         <extent>
+           <measure unit= "pages" quantity= "1">one partial page of original source material</measure>
+          </extent>
+         <publicationStmt>
+           <publisher>
+             <orgName>African American History, Culture, and Digital Humanities</orgName>
+           </publisher>
+           <pubPlace>
+             <settlement>College Park</settlement>
+             <region>Maryland</region>
+           </pubPlace>
+         <date when="2018-03-05">March 5, 2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+              <title>The Diamonback</title>
+              <author>
+                <forename>Maryanne</forename>
+                <surname>Gallagher</surname>
+              </author>
+              <publisher><orgName>The Diamondback</orgName></publisher>
+                <pubPlace>
+                  <settlement>College Park</settlement>
+                  <region>Maryland</region>
+                </pubPlace>
+                <date when="1970-04-15"> April 15, 1970</date>
+                <biblScope unit="volume">62</biblScope>
+                <biblScope unit="number">117</biblScope>
+                <biblScope unit="page">1</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Black Student Union representa­
+tives who met with University Pres­
+ident Wilson H. Elkins Monday con­
+cerning their 14 demands said yes­
+terday they were not satisfied with the
+discussion.</p>
+      </div>
+      <div>
+        <p>Foster Hall, BSU treasurer and
+one of three members who met with
+Elkins, said they will seek another
+meeting with Elkins tomorrow.</p>
+      </div>
+      <div>
+        <p>"If we don’t see any action on our
+demands, we will take our own ac­
+tion,” he added.</p>
+      </div>
+      <div>
+        <p>The other two representatives who
+met with Elkins were BSU Pres­
+ident Terance Cooper and Chrlss
+Young.</p>
+      </div>
+      <div>
+        <p>During the 45-minute meeting, all
+but three of the demands were dis­
+cussed, Hall said. The original list
+of demands had been presented Fri­
+day to Walter B. Waetjen, vice pres­
+ident for administrative affairs.</p>
+      </div>
+      <div>
+        <p>Elkins began by saying the demand
+that he and other members of the
+administration resign was non-neg­
+otiable, according to Hall.</p>
+      </div>
+      <div>
+        <p>Some of the demands were be­
+yond his authority, Elkins added ac­
+cording to a University spokesman,
+and if he resigned he ‘‘wouldn’t be
+in a position to respond” at all.</p>
+      </div>
+      <div>
+       <p>The president said he had no auth­
+ority to Intervene in the Maryland
+State College Issue until the school
+comes under University jurisdiction
+July 1.</p>
+      </div>
+      <div>
+        <p>BSU had demanded that the 181
+students arrested at the college rec­ently not be penalized for their buil­
+ding occupation action and that col­
+lege President John T. Williams be
+fired.</p>
+      </div>
+      <div>
+<p>Elkins also said he had no in­
+fluence with the state to push for
+pay raises for campus classified
+workers, as BSU had demanded, Hall
+said.</p>
+      </div>
+      <div>
+        <p>
+The president answered the demand
+for a change In the black studies pro­
+gram to Include black community-ori­
+ented projects by saying the Uni­
+versity "does not have the capabil­
+ity or presently the faculty to ex­
+tend itself” Into the community.</p>
+      </div>
+      <div>
+        <p>Hall noted that the increase in funds
+for black studies, which Elkins said
+would be proportional to the Increase
+In the entire budget, was not accept­
+able to BSU members.</p>
+      </div>
+      <div>
+<p>To the demand that classes be pro­
+vided for residents of nearby Lake­
+land, Elkins responded that classes
+are both possible and probable.</p>
+      </div>
+      <div>
+<p>He said he would talk to faculty
+about It and requested BSU to draw
+up a plan for using the adult edu­
+cation center for the classes.</p>
+      </div>
+      <div>
+        <p>Hall said that plan and another
+one for including the children of
+campus service workers in the Uni­
+versity kindergarten program would
+be submitted today.</p>
+      </div>
+      <div>
+<p>Elkins had Informed the BSU rep­
+resentatives at the meeting that the
+kindergarten was open to all campus
+employes.</p>
+      </div>
+      <div>
+<p>The demand that recruiting of black
+students and faculty be stepped up
+was answered with a statement by El­
+kins that the present program was
+sufficient.</p>
+      </div>
+      <div>
+<p>Hall contended, however, that the
+number of blacks has not Increased
+substantially, although he said he
+would not have the exact figures un­
+til today.</p>
+      </div>
+      <div>
+<p>one of the demands, that amnesty
+be granted to three black students
+who were arested after a fight In
+College Park recently, had been
+turned over to J. Winston Martin,
+vice president for student affairs,
+for Investigation shortly after the
+Incident happened.</p>
+      </div>
+      <div>
+<p>Elkins noted that the University
+does not have jurisdiction In such
+off-campus cases.</p>
+      </div>
+      <div>
+<p>Hall mentioned, however, that he
+has not heard from Martin since
+sometime before Easter vacation.</p>
+      </div>
+      <div>
+<p>Regarding another demand, Elkins
+said it would be “illegal” to reor­
+ganize the University structure to
+place control in the hands of students,
+faculty and chosen administrators.</p>
+      </div>
+      <div>
+<p>He said, however, that as soon as
+a human relations director is appoin­
+ted, students could take their ideas
+for change to him. The director will
+be the vice chancellor, Elkins said.
+Both the director and the chancel­
+lor have yet to be appointed.</p>
+      </div>
+      <div>
+<p>The demand for free legal counsel
+for black students “made to suffer
+as a result of their political activ­
+ity” was satisfied when Student Gov­
+ernment President Stu Robinson of­
+fered the use of the SGA legal aid
+fund, which does not come from state
+funds, Hall said.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
