@@ -145,6 +145,18 @@
                   <country>United States of America (<abbr>USA</abbr>)</country>
                 </placeName>
             </org>
+            <org>
+              <orgName ref="#MSCP">Maryland State College Protestors</orgName>
+              <placeName>
+                <settlement>Princess Anne</settlement>
+                <region>Maryland (<abbr>MD</abbr>)</region>
+                <country>United States of America (<abbr>USA</abbr>)</country>
+              </placeName>
+              <note>This group is not described as a formal organized group, but rather
+                as 181 protestors. A great amount of labor is required to stage a sit-in
+                of this size. In this spirit they are referred to as an organization alongside
+                the more institutionally recognized organizations</note>
+            </org>
           </listOrg>
           <listPerson>
             <person>
@@ -216,11 +228,11 @@
   <text>
     <body>
       <div>
-        <p>Black Student Union <choice><orig>representa­-
+        <p><orgName ref="#BSU">Black Student Union</orgName> <choice><orig>representa­-
 tives</orig><reg>representatives</reg></choice><lb/>
 who met with University <choice><orig>Pres-­
 ident</orig><reg>President</reg></choice><lb/>
-Wilson H. Elkins Monday <choice><orig>con-­
+<persName ref="#WE">Wilson H. Elkins</persName> Monday <choice><orig>con-­
 cerning</orig><reg>concerning</reg></choice><lb/>
 their 14 demands said <choice><orig>yes-­
 terday</orig><reg>yesterday</reg></choice><lb/>
@@ -228,23 +240,23 @@ they were not satisfied with the<lb/>
 discussion.<lb/></p>
       </div>
       <div>
-        <p>Foster Hall, BSU treasurer and<lb/>
+        <p><persName ref="#FH">Foster Hall,</persName> <orgName ref="#BSU">BSU</orgName> treasurer and<lb/>
 one of three members who met with<lb/>
-Elkins, said they will seek another<lb/>
-meeting with Elkins tomorrow.<lb/></p>
+<persName ref="#WE">Elkins,</persName> said they will seek another<lb/>
+meeting with <persName ref="#WE">Elkins</persName> tomorrow.<lb/></p>
       </div>
       <div>
-        <p>"If we don’t see any action on our<lb/>
+        <p><q>"If we don’t see any action on our<lb/>
 demands, we will take our own <choice><orig>ac-­
-tion,”</orig><reg>action</reg></choice><lb/>
+tion,”</orig><reg>action</reg></choice></q><lb/>
 he added.<lb/></p>
       </div>
       <div>
         <p>The other two representatives who
-met with Elkins were BSU <choice><orig>Pres-­
+met with <persName ref="#WE">Elkins</persName> were <orgName ref="#BSU">BSU</orgName> <choice><orig>Pres-­
 ident</orig><reg>President</reg></choice><lb/>
-Terance Cooper and Chrlss<lb/>
-Young.<lb/></p>
+<persName ref="#TC">Terance Cooper</persName> and <persName ref="#CY"><choice><orig>Chrlss</orig><reg>Chriss</reg></choice><lb/>
+Young.</persName><lb/></p>
       </div>
       <div>
         <p>During the 45-minute meeting, all<lb/>
@@ -253,44 +265,45 @@ cussed,</orig><reg>discussed</reg></choice><lb/>
 Hall said. The original list<lb/>
 of demands had been presented <choice><orig>Fri­-
 day</orig><reg>Friday</reg></choice><lb/>
-to Walter B. Waetjen, vice <choice><orig>pres-­
+to <persName ref="#WW">Walter B. Waetjen</persName>, vice <choice><orig>pres-­
 ident</orig><reg>president</reg></choice><lb/>
 for administrative affairs.<lb/></p>
       </div>
       <div>
-        <p>Elkins began by saying the demand
-that he and other members of the
-administration resign was non-neg-­
-otiable, according to Hall.</p>
+        <p><persName ref="#WE">Elkins</persName> began by saying the demand<lb/>
+that he and other members of the<lb/>
+administration resign was <choice><orig>non-neg-­
+otiable,</orig><reg>non-negotioable</reg></choice><lb/>
+according to <persName ref="#FH">Hall.</persName><lb/></p>
       </div>
       <div>
-        <p>Some of the demands were be­
-yond his authority, Elkins added ac­
-cording to a University spokesman,
-and if he resigned he ‘‘wouldn’t be
-in a position to respond” at all.</p>
+        <p>Some of the demands were be<lb/>­
+yond his authority, Elkins added ac-­
+cording to a University spokesman,<lb/>
+and if he resigned he ‘‘wouldn’t be<lb/>
+in a position to respond” at all.<lb/></p>
       </div>
       <div>
        <p>The president said he had no auth-­
-ority to Intervene in the Maryland
-State College Issue until the school
-comes under University jurisdiction
-July 1.</p>
+ority to Intervene in the Maryland<lb/>
+State College Issue until the school<lb/>
+comes under University jurisdiction<lb/>
+July 1.<lb/></p>
       </div>
       <div>
-        <p>BSU had demanded that the 181
-students arrested at the college rec­-
+        <p>BSU had demanded that the <orgName ref="#MSCP">181<lb/>
+students arrested at the college</orgName> rec­-
 ently not be penalized for their buil-­
 ding occupation action and that col­-
-lege President John T. Williams be
-fired.</p>
+lege President John T. Williams be<lb/>
+fired.<lb/></p>
       </div>
       <div>
-<p>Elkins also said he had no in­
-fluence with the state to push for
-pay raises for campus classified
-workers, as BSU had demanded, Hall
-said.</p>
+<p>Elkins also said he had no in­<lb/>
+fluence with the state to push for<lb/>
+pay raises for campus classified<lb/>
+workers, as BSU had demanded, Hall<lb/>
+said.<lb/></p>
       </div>
       <div>
         <p>
