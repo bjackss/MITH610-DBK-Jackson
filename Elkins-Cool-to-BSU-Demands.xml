@@ -85,9 +85,12 @@
             <bibl>
               <interpGrp resp="#BJJ" type="idea">
               <desc>analysis of protest</desc>
-                <interp></interp>
-                <interp></interp>
-                <interp></interp>
+                <interp>issues</interp>
+                <interp>demands</interp>
+                <interp>responses</interp>
+                <interp>actions</interp>
+                <interp>organizing</interp>
+                <interp>danger</interp>
               </interpGrp>
             </bibl>
          </sourceDesc>
@@ -203,7 +206,7 @@
                 <forename>John</forename>
                 <forename>T</forename>
                 <surname>Williams</surname>
-                <orgName></orgName>
+                <roleName type="Office">President</roleName><orgName ref="#MSC">Maryland State College</orgName>
               </persName>
             </person>
             <person>
@@ -228,14 +231,10 @@
   <text>
     <body>
       <div>
-        <p><orgName ref="#BSU">Black Student Union</orgName> <choice><orig>representa­-
-tives</orig><reg>representatives</reg></choice><lb/>
-who met with University <choice><orig>Pres-­
-ident</orig><reg>President</reg></choice><lb/>
-<persName ref="#WE">Wilson H. Elkins</persName> Monday <choice><orig>con-­
-cerning</orig><reg>concerning</reg></choice><lb/>
-their 14 demands said <choice><orig>yes-­
-terday</orig><reg>yesterday</reg></choice><lb/>
+        <p><orgName ref="#BSU">Black Student Union</orgName> <choice><orig>representa­-tives</orig><reg>representatives</reg></choice><lb/>
+who met with University <choice><orig>Pres-­ident</orig><reg>President</reg></choice><lb/>
+<persName ref="#WE">Wilson H. Elkins</persName> Monday <choice><orig>con-­cerning</orig><reg>concerning</reg></choice><lb/>
+their 14 demands said <choice><orig>yes-­terday</orig><reg>yesterday</reg></choice><lb/>
 they were not satisfied with the<lb/>
 discussion.<lb/></p>
       </div>
@@ -247,165 +246,159 @@ meeting with <persName ref="#WE">Elkins</persName> tomorrow.<lb/></p>
       </div>
       <div>
         <p><q>"If we don’t see any action on our<lb/>
-demands, we will take our own <choice><orig>ac-­
-tion,”</orig><reg>action</reg></choice></q><lb/>
+demands, we will take our own <choice><orig>ac-­tion,”</orig><reg>action</reg></choice></q><lb/>
 he added.<lb/></p>
       </div>
       <div>
         <p>The other two representatives who
-met with <persName ref="#WE">Elkins</persName> were <orgName ref="#BSU">BSU</orgName> <choice><orig>Pres-­
-ident</orig><reg>President</reg></choice><lb/>
+met with <persName ref="#WE">Elkins</persName> were <orgName ref="#BSU">BSU</orgName> <choice><orig>Pres-­ident</orig><reg>President</reg></choice><lb/>
 <persName ref="#TC">Terance Cooper</persName> and <persName ref="#CY"><choice><orig>Chrlss</orig><reg>Chriss</reg></choice><lb/>
 Young.</persName><lb/></p>
       </div>
       <div>
         <p>During the 45-minute meeting, all<lb/>
-but three of the demands were <choice><orig>dis-­
-cussed,</orig><reg>discussed</reg></choice><lb/>
+but three of the demands were <choice><orig>dis-­cussed,</orig><reg>discussed</reg></choice><lb/>
 Hall said. The original list<lb/>
-of demands had been presented <choice><orig>Fri­-
-day</orig><reg>Friday</reg></choice><lb/>
-to <persName ref="#WW">Walter B. Waetjen</persName>, vice <choice><orig>pres-­
-ident</orig><reg>president</reg></choice><lb/>
+of demands had been presented <choice><orig>Fri­-day</orig><reg>Friday</reg></choice><lb/>
+to <persName ref="#WW">Walter B. Waetjen</persName>, vice <choice><orig>pres-­ident</orig><reg>president</reg></choice><lb/>
 for administrative affairs.<lb/></p>
       </div>
       <div>
         <p><persName ref="#WE">Elkins</persName> began by saying the demand<lb/>
 that he and other members of the<lb/>
-administration resign was <choice><orig>non-neg-­
-otiable,</orig><reg>non-negotioable</reg></choice><lb/>
+administration resign was <choice><orig>non-neg-­otiable,</orig><reg>non-negotioable</reg></choice><lb/>
 according to <persName ref="#FH">Hall.</persName><lb/></p>
       </div>
       <div>
         <p>Some of the demands were be<lb/>­
-yond his authority, Elkins added ac-­
-cording to a University spokesman,<lb/>
-and if he resigned he ‘‘wouldn’t be<lb/>
-in a position to respond” at all.<lb/></p>
+yond his authority, <persName ref="#WE">Elkins</persName> added <choice><orig>ac-­cording</orig><reg>according</reg></choice><lb/>
+to a University spokesman,<lb/>
+and if he resigned he <q>‘‘wouldn’t be<lb/>
+in a position to respond”</q> at all.<lb/></p>
       </div>
       <div>
-       <p>The president said he had no auth-­
-ority to Intervene in the Maryland<lb/>
-State College Issue until the school<lb/>
-comes under University jurisdiction<lb/>
+       <p>The president said he had no <choice><orig>auth-­ority</orig><reg>authority</reg></choice><lb/>
+to Intervene in the <orgName ref="#MSC">Maryland<lb/>
+State College</orgName> Issue until the school<lb/>
+comes under <orgName ref="#UMD">University</orgName> jurisdiction<lb/>
 July 1.<lb/></p>
       </div>
       <div>
-        <p>BSU had demanded that the <orgName ref="#MSCP">181<lb/>
-students arrested at the college</orgName> rec­-
-ently not be penalized for their buil-­
-ding occupation action and that col­-
-lege President John T. Williams be<lb/>
+        <p><orgName ref="#BSU">BSU</orgName> had demanded that the <orgName ref="#MSCP">181<lb/>
+students arrested at <orgName ref="#MSC">the college</orgName></orgName> <choice><orig>rec­-ently</orig><reg>recently</reg></choice><lb/>
+not be penalized for their <choice><orig>buil-­ding</orig><reg>building</reg></choice><lb/>
+occupation action and that <choice><orig>col­-lege</orig><reg>college</reg></choice><lb/>
+President <persName ref="#JW">John T. Williams</persName> be<lb/>
 fired.<lb/></p>
       </div>
       <div>
-<p>Elkins also said he had no in­<lb/>
-fluence with the state to push for<lb/>
+<p><persName ref="#WE">Elkins</persName> also said he had no <choice><orig>in-­fluence</orig><reg>influence</reg></choice><lb/>
+with the state to push for<lb/>
 pay raises for campus classified<lb/>
-workers, as BSU had demanded, Hall<lb/>
+workers, as <orgName ref="#BSU">BSU</orgName> had demanded, <persName ref="FH">Hall</persName><lb/>
 said.<lb/></p>
       </div>
       <div>
         <p>
-The president answered the demand
-for a change In the black studies pro-­
-gram to Include black community-ori-­
-ented projects by saying the Uni­-
-versity "does not have the capabil-­
-ity or presently the faculty to ex-­
-tend itself” Into the community.</p>
+<persName ref="#WE">The president</persName> answered the demand<lb/>
+for a change In the black studies <choice><orig>pro-­
+gram</orig><reg>program</reg></choice><lb/>
+to Include black community-<choice><orig>ori-­ented</orig><reg>oriented</reg></choice><lb/>
+projects by saying the <choice><orig>Uni­-versity</orig><reg><orgName ref="#UMD">University</orgName></reg></choice><lb/>
+<q>"does not have the <choice><orig>capabil-­ity</orig><reg>capability</reg></choice><lb/>
+or presently the faculty to <choice><orig>ex-­tend</orig><reg>extend</reg></choice><lb/>
+itself”</q> Into the community.<lb/></p>
       </div>
       <div>
-        <p>Hall noted that the increase in funds
-for black studies, which Elkins said
-would be proportional to the Increase
-In the entire budget, was not accept­
-able to BSU members.</p>
+        <p><persName ref="#FH">Hall</persName> noted that the increase in funds<lb/>
+for black studies, which <persName ref="#WE">Elkins</persName> said<lb/>
+would be proportional to the Increase<lb/>
+In the entire budget, was not accept<lb/>­
+able to <orgName ref="#BSU">BSU</orgName> members.<lb/></p>
       </div>
       <div>
-<p>To the demand that classes be pro­-
-vided for residents of nearby Lake­
-land, Elkins responded that classes
-are both possible and probable.</p>
+<p>To the demand that classes be <choice><orig>pro­-vided</orig><reg>provided</reg></choice><lb/>
+for residents of nearby <choice><orig>Lake­-land,</orig><reg>Lakeland</reg></choice> <persName ref="#WE">Elkins</persName> responded that classes<lb/>
+are both possible and probable.<lb/></p>
       </div>
       <div>
-<p>He said he would talk to faculty
-about It and requested BSU to draw
-up a plan for using the adult edu­-
-cation center for the classes.</p>
+<p>He said he would talk to faculty<lb/>
+about It and requested <orgName ref="#BSU">BSU</orgName> to draw<lb/>
+up a plan for using the adult <choice><orig>edu­-cation</orig><reg>education</reg></choice><lb/>
+center for the classes.<lb/></p>
       </div>
       <div>
-        <p>Hall said that plan and another
-one for including the children of
-campus service workers in the Uni-­
-versity kindergarten program would
-be submitted today.</p>
+        <p>Hall said that plan and another<lb/>
+one for including the children of<lb/>
+campus service workers in the <choice><orig>Uni-­versity</orig><reg><orgName ref="#UMD">University</orgName></reg></choice><lb/>
+kindergarten program would<lb/>
+be submitted today.<lb/></p>
       </div>
       <div>
-<p>Elkins had Informed the BSU rep­
-resentatives at the meeting that the
-kindergarten was open to all campus
-employes.</p>
+<p><persName ref="#WE">Elkins</persName> had Informed the <orgName ref="#BSU">BSU</orgName> <choice><orig>rep-­resentatives</orig><reg>representatives</reg></choice><lb/>
+at the meeting that the<lb/>
+kindergarten was open to all campus<lb/>
+employes.<lb/></p>
       </div>
       <div>
-<p>The demand that recruiting of black
-students and faculty be stepped up
-was answered with a statement by El-­
-kins that the present program was
-sufficient.</p>
+<p>The demand that recruiting of black<lb/>
+students and faculty be stepped up<lb/>
+was answered with a statement by <choice><orig>El-­kins</orig><reg><persName ref="#WE">Elkins</persName></reg></choice><lb/>
+that the present program was<lb/>
+sufficient.<lb/></p>
       </div>
       <div>
-<p>Hall contended, however, that the
-number of blacks has not Increased
-substantially, although he said he
-would not have the exact figures un-­
-til today.</p>
+<p>Hall contended, however, that the<lb/>
+number of blacks has not Increased<lb/>
+substantially, although he said he<lb/>
+would not have the exact figures <choice><orig>un-­til</orig><reg>until</reg></choice><lb/>
+today.<lb/></p>
       </div>
       <div>
-<p>one of the demands, that amnesty
-be granted to three black students
-who were arested after a fight In
-College Park recently, had been
-turned over to J. Winston Martin,
-vice president for student affairs,
-for Investigation shortly after the
-Incident happened.</p>
+<p>one of the demands, that amnesty<lb/>
+be granted to three black students<lb/>
+who were arested after a fight In<lb/>
+<settlement>College Park</settlement> recently, had been<lb/>
+turned over to <persName ref="#JM">J. Winston Martin,</persName><lb/>
+vice president for student affairs,<lb/>
+for Investigation shortly after the<lb/>
+Incident happened.<lb/></p>
       </div>
       <div>
-<p>Elkins noted that the University
-does not have jurisdiction In such
-off-campus cases.</p>
+<p><persName ref="#WE">Elkins</persName> noted that the University<lb/>
+does not have jurisdiction In such<lb/>
+off-campus cases.<lb/></p>
       </div>
       <div>
-<p>Hall mentioned, however, that he
-has not heard from Martin since
-sometime before Easter vacation.</p>
+<p><persName ref="#FH">Hall</persName> mentioned, however, that he<lb/>
+has not heard from <persName ref="#JM">Martin</persName> since<lb/>
+sometime before Easter vacation.<lb/></p>
       </div>
       <div>
-<p>Regarding another demand, Elkins
-said it would be “illegal” to reor­-
-ganize the University structure to
+<p>Regarding another demand, <persName ref="#WE">Elkins</persName><lb/>
+said it would be “illegal” to <choice><orig>reor­-ganize</orig><reg>reorganize</reg></choice><lb/>
+the University structure to<lb/>
 place control in the hands of students,
-faculty and chosen administrators.</p>
+faculty and chosen administrators.<lb/></p>
       </div>
       <div>
-<p>He said, however, that as soon as
-a human relations director is appoin-­
-ted, students could take their ideas
-for change to him. The director will
-be the vice chancellor, Elkins said.
+<p>He said, however, that as soon as<lb/>
+a human relations director is <choice><orig>appoin-­ted,</orig><reg>original,</reg></choice><lb/>
+students could take their ideas<lb/>
+for change to him. The director will<lb/>
+be the vice chancellor, Elkins said.<lb/>
 Both the director and the chancel-­
-lor have yet to be appointed.</p>
+lor have yet to be appointed.<lb/></p>
       </div>
       <div>
-<p>The demand for free legal counsel
-for black students “made to suffer
+<p>The demand for free legal counsel<lb/>
+for black students “made to suffer<lb/>
 as a result of their political activ-­
-ity” was satisfied when Student Gov­
-ernment President Stu Robinson of­
-fered the use of the SGA legal aid
-fund, which does not come from state
-funds, Hall said.</p>
+ity” was satisfied when Student Gov-­
+ernment President Stu Robinson of<lb/>­
+fered the use of the SGA legal aid<lb/>
+fund, which does not come from state<lb/>
+funds, Hall said.<lb/></p>
       </div>
     </body>
   </text>
