@@ -36,7 +36,7 @@
             </respStmt>
             <respStmt>
               <resp>TEI instruction provided through</resp>
-              <orgName>MITH</orgName>
+              <orgName xml:id="MITH">Maryland Institute for Technology in the Humanities</orgName>
             </respStmt>
             <respStmt>
               <resp>Source material archived and provided by</resp>
@@ -56,7 +56,7 @@
           </extent>
          <publicationStmt>
            <publisher>
-             <orgName>African American History, Culture, and Digital Humanities</orgName>
+             <orgName xml:id="AADHUM">African American History, Culture, and Digital Humanities (AADHum)</orgName>
            </publisher>
            <pubPlace>
              <settlement>College Park</settlement>
@@ -110,9 +110,41 @@
         </langUsage>
         <particDesc>
           <listOrg>
-            <org></org>
-            <org></org>
-            <org></org>
+            <org>
+              <orgName xml:id="UMD">University of Maryland, College Park</orgName>
+                <placeName>
+                  <settlement>College Park</settlement>
+                  <region>Maryland (<abbr>MD</abbr>)</region>
+                  <country>United States of America (<abbr>USA</abbr>)</country>
+                </placeName>
+            </org>
+            <org>
+              <orgName xml:id="MSC">Maryland State College</orgName>
+                <placeName>
+                  <settlement>Princess Anne</settlement>
+                  <region>Maryland (<abbr>MD</abbr>)</region>
+                  <country>United States of America (<abbr>USA</abbr>)</country>
+                </placeName>
+                <note>In the year following this article's publication Maryland State
+                was absorbed into the University of Maryland system as University of
+                Maryland, Eastern Shore</note>
+            </org>
+            <org>
+              <orgName xml:id="BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              <placeName>
+                <settlement>College Park</settlement>
+                <region>Maryland (<abbr>MD</abbr>)</region>
+                <country>United States of America (<abbr>USA</abbr>)</country>
+              </placeName>
+            </org>
+            <org>
+              <orgName xml:id="SGA">Student Government Association, </orgName><orgName ref="#UMD">University of Maryland, College Park</orgName>
+                <placeName>
+                  <settlement>College Park</settlement>
+                  <region>Maryland (<abbr>MD</abbr>)</region>
+                  <country>United States of America (<abbr>USA</abbr>)</country>
+                </placeName>
+            </org>
           </listOrg>
           <listPerson>
             <person>
@@ -120,7 +152,7 @@
                 <forename>William</forename>
                 <forename>H</forename>
                 <surname>Elkins</surname>
-                <roleName type="office">University President, </roleName> <orgName></orgName>
+                <roleName type="Office">University President, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
               </persName>
             </person>
 
@@ -128,15 +160,53 @@
               <persName xml:id="FH">
                 <forename>Foster</forename>
                 <surname>Hall</surname>
-                <roleName type="office">Treasurer, </roleName> <orgName></orgName>
+                <roleName type="Office">Treasurer, </roleName> <orgName ref="#BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
               </persName>
             </person>
 
             <person>
-              <persName xml:id="">
-                <forename></forename>
-                <surname></surname>
-                <roleName></roleName> <orgName></orgName>
+              <persName xml:id="TC">
+                <forename>Terrance</forename>
+                <surname>Cooper</surname>
+                <roleName type="Office">President, </roleName> <orgName ref="#BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="CY">
+                <forename>Charles</forename>
+                <surname>Young</surname>
+                <roleName>Member</roleName> <orgName ref="#BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="WW">
+                <forename>Walter</forename>
+                <forename>Bernhard</forename>
+                <surname>Waetjen</surname>
+                <roleName type="Office">Vice President of Administrative Affairs, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="JW">
+                <forename>John</forename>
+                <forename>T</forename>
+                <surname>Williams</surname>
+                <orgName></orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="JM">
+                <forename>J</forename>
+                <forename>Winston</forename>
+                <surname>Martin</surname>
+                <roleName type="Office">Vice President of Student Affairs, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="SR">
+                <forename>Stu</forename>
+                <surname>Robinson</surname>
+                <roleName type="Office">President, </roleName> <orgName ref="#SGA">Student Government Association, </orgName><orgName ref="#UMD">University of Maryland, College Park</orgName>
               </persName>
             </person>
           </listPerson>
@@ -146,23 +216,28 @@
   <text>
     <body>
       <div>
-        <p>Black Student Union representa­
-tives who met with University Pres­
-ident Wilson H. Elkins Monday con­
-cerning their 14 demands said yes­
-terday they were not satisfied with the
-discussion.</p>
+        <p>Black Student Union <choice><orig>representa­-
+tives</orig><reg>representatives</reg></choice><lb/>
+who met with University <choice><orig>Pres-­
+ident</orig><reg>President</reg></choice><lb/>
+Wilson H. Elkins Monday <choice><orig>con-­
+cerning</orig><reg>concerning</reg></choice><lb/>
+their 14 demands said <choice><orig>yes-­
+terday</orig><reg>yesterday</reg></choice><lb/>
+they were not satisfied with the<lb/>
+discussion.<lb/></p>
       </div>
       <div>
-        <p>Foster Hall, BSU treasurer and
-one of three members who met with
-Elkins, said they will seek another
-meeting with Elkins tomorrow.</p>
+        <p>Foster Hall, BSU treasurer and<lb/>
+one of three members who met with<lb/>
+Elkins, said they will seek another<lb/>
+meeting with Elkins tomorrow.<lb/></p>
       </div>
       <div>
-        <p>"If we don’t see any action on our
-demands, we will take our own ac­
-tion,” he added.</p>
+        <p>"If we don’t see any action on our<lb/>
+demands, we will take our own <choice><orig>ac-­
+tion,”</orig><reg>action</reg></choice><lb/>
+he added.<lb/></p>
       </div>
       <div>
         <p>The other two representatives who
