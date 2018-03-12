@@ -9,12 +9,13 @@
             <title type="sub">Black Students Protest for Real</title>
             <title type="sub">Digital Edition</title>
             <author>
+              <persName xml:id="BJJ"></persName>
               <forename>Benjamin</forename>
                <surname>Jackson</surname>
              </author>
             <respStmt>
               <resp>encoded by</resp>
-              <persName>
+              <persName ref="#BJJ">
                 <forename>Benjamin</forename>
                 <surname>Jackson</surname>
               </persName>
@@ -67,6 +68,7 @@
             <bibl>
               <title>The Diamonback</title>
               <author>
+                <persName xml:id="MG"></persName>
                 <forename>Maryanne</forename>
                 <surname>Gallagher</surname>
               </author>
@@ -80,8 +82,66 @@
                 <biblScope unit="number">117</biblScope>
                 <biblScope unit="page">1</biblScope>
             </bibl>
+            <bibl>
+              <interpGrp resp="#BJJ" type="idea">
+              <desc>analysis of protest</desc>
+                <interp></interp>
+                <interp></interp>
+                <interp></interp>
+              </interpGrp>
+            </bibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+          <p>For readability linebreaks have not been maintained</p>
+          <p>Where mispelt words were ostensibly due to OCR errors,
+            they have been marked and suggested revisions have been added and tagged as choices.</p>
+          <p>Any potential typographical errors in the original were reproduced in this work in
+            an attempt to represent this element of the source material</p>
+          </editorialDecl>
+          <projectDesc>
+            <p>This project is intended as a</p>
+          </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="en-US">United States English</language>
+        </langUsage>
+        <particDesc>
+          <listOrg>
+            <org></org>
+            <org></org>
+            <org></org>
+          </listOrg>
+          <listPerson>
+            <person>
+              <persName xml:id="WE">
+                <forename>William</forename>
+                <forename>H</forename>
+                <surname>Elkins</surname>
+                <roleName type="office">University President, </roleName> <orgName></orgName>
+              </persName>
+            </person>
+
+            <person>
+              <persName xml:id="FH">
+                <forename>Foster</forename>
+                <surname>Hall</surname>
+                <roleName type="office">Treasurer, </roleName> <orgName></orgName>
+              </persName>
+            </person>
+
+            <person>
+              <persName xml:id="">
+                <forename></forename>
+                <surname></surname>
+                <roleName></roleName> <orgName></orgName>
+              </persName>
+            </person>
+          </listPerson>
+        </particDesc>
+      </profileDesc>
   </teiHeader>
   <text>
     <body>
