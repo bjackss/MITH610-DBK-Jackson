@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Reflections in Black</title>
+            <title type="sub">Black Students Protest for Real</title>
+            <title type="sub">Digital Edition</title>
+            <author>
+              <persName xml:id="BJJ"></persName>
+              <forename>Benjamin</forename>
+               <surname>Jackson</surname>
+             </author>
+            <respStmt>
+              <resp>encoded by</resp>
+              <persName ref="#BJJ">
+                <forename>Benjamin</forename>
+                <surname>Jackson</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>Original TEI template provided by</resp>
+              <persName>
+                <forename>Raffaele</forename>
+                <surname>Viglianti</surname>
+              </persName>
+            </respStmt>
+            <respStmt>
+              <resp>Extensive TEI Header example provided by</resp>
+                <persName>
+                  <forename>Jessica</forename>
+                  <surname>Lu</surname>
+                </persName>
+            </respStmt>
+            <respStmt>
+              <resp>TEI instruction provided through</resp>
+              <orgName xml:id="MITH">Maryland Institute for Technology in the Humanities</orgName>
+            </respStmt>
+            <respStmt>
+              <resp>Source material archived and provided by</resp>
+              <orgName>University Archives
+                <placeName>University of Maryland
+                  <settlement>College Park</settlement>
+                  <region>Maryland</region>
+                </placeName>
+              </orgName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+           <edition n= "1">First edition</edition>
+         </editionStmt>
+         <extent>
+           <measure unit= "pages" quantity= "2">two partial pages of original source material</measure>
+          </extent>
+         <publicationStmt>
+           <publisher>
+             <orgName xml:id="AADHUM">African American History, Culture, and Digital Humanities (AADHum)</orgName>
+           </publisher>
+           <pubPlace>
+             <settlement>College Park</settlement>
+             <region>Maryland</region>
+           </pubPlace>
+         <date when="2018-03-13">March 13, 2018</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+              <title>The Diamonback</title>
+              <author>
+                <persName xml:id="AC"></persName>
+                <forename>Andy</forename>
+                <surname>Chischom</surname>
+              </author>
+              <publisher><orgName>The Diamondback</orgName></publisher>
+                <pubPlace>
+                  <settlement>College Park</settlement>
+                  <region>Maryland</region>
+                </pubPlace>
+                <date when="1968-10-25"> October 25, 1968</date>
+                <biblScope unit="volume">61</biblScope>
+                <biblScope unit="number">31</biblScope>
+                <biblScope unit="page">1</biblScope>
+            </bibl>
+            <bibl>
+              <interpGrp resp="#BJJ" type="idea">
+              <desc>analysis of protest</desc>
+                <interp>issues</interp>
+                <interp>demands</interp>
+                <interp>responses</interp>
+                <interp>actions</interp>
+                <interp>organizing</interp>
+                <interp>danger</interp>
+              </interpGrp>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+          <p>Linebreaks have been normalized to remove hyphens</p>
+          <p>Where mispelt words were ostensibly due to OCR errors,
+            they have been marked and suggested revisions have been added and tagged as choices.</p>
+          <p>Any potential typographical errors in the original were reproduced in this work in
+            an attempt to represent this element of the source material</p>
+          </editorialDecl>
+          <projectDesc>
+            <p>This project is intended as a</p>
+          </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="en-US">United States English</language>
+        </langUsage>
+        <particDesc>
+          <listOrg>
+            <org>
+              <orgName xml:id="UMD">University of Maryland, College Park</orgName>
+                <placeName>
+                  <settlement>College Park</settlement>
+                  <region>Maryland (<abbr>MD</abbr>)</region>
+                  <country>United States of America (<abbr>USA</abbr>)</country>
+                </placeName>
+            </org>
+            <org>
+              <orgName xml:id="BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              <placeName>
+                <settlement>College Park</settlement>
+                <region>Maryland (<abbr>MD</abbr>)</region>
+                <country>United States of America (<abbr>USA</abbr>)</country>
+              </placeName>
+            </org>
+            <org>
+              <orgName xml:id="SGA">Student Government Association, </orgName><orgName ref="#UMD">University of Maryland, College Park</orgName>
+                <placeName>
+                  <settlement>College Park</settlement>
+                  <region>Maryland (<abbr>MD</abbr>)</region>
+                  <country>United States of America (<abbr>USA</abbr>)</country>
+                </placeName>
+            </org>
+            <org>
+              <orgName ref="#UMDP">University of Maryland Protestors</orgName>
+              <placeName>
+                <settlement>College Park</settlement>
+                <region>Maryland (<abbr>MD</abbr>)</region>
+                <country>United States of America (<abbr>USA</abbr>)</country>
+              </placeName>
+              <note></note>
+            </org>
+          </listOrg>
+          <listPerson>
+            <person>
+              <persName xml:id="WE">
+                <forename>William</forename>
+                <forename>H</forename>
+                <surname>Elkins</surname>
+                <roleName type="Office">University President, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+
+            <person>
+              <persName xml:id="FH">
+                <forename>Foster</forename>
+                <surname>Hall</surname>
+                <roleName type="Office">Treasurer, </roleName> <orgName ref="#BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+
+            <person>
+              <persName xml:id="TC">
+                <forename>Terrance</forename>
+                <surname>Cooper</surname>
+                <roleName type="Office">President, </roleName> <orgName ref="#BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="CY">
+                <forename>Chriss</forename>
+                <surname>Young</surname>
+                <roleName>Member</roleName> <orgName ref="#BSU">Black Students Union, </orgName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="WW">
+                <forename>Walter</forename>
+                <forename>Bernhard</forename>
+                <surname>Waetjen</surname>
+                <roleName type="Office">Vice President of Administrative Affairs, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="JW">
+                <forename>John</forename>
+                <forename>T</forename>
+                <surname>Williams</surname>
+                <roleName type="Office">President</roleName><orgName ref="#MSC">Maryland State College</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="JM">
+                <forename>J</forename>
+                <forename>Winston</forename>
+                <surname>Martin</surname>
+                <roleName type="Office">Vice President of Student Affairs, </roleName> <orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+            <person>
+              <persName xml:id="SR">
+                <forename>Stu</forename>
+                <surname>Robinson</surname>
+                <roleName type="Office">President, </roleName> <orgName ref="#SGA">Student Government Association, </orgName><orgName ref="#UMD">University of Maryland, College Park</orgName>
+              </persName>
+            </person>
+          </listPerson>
+        </particDesc>
+      </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>About 200 black brothers staged a
+protest rally in front of the home eco­
+nomics building Wednesday. Also pre­
+sent were about 100 white sympathizers.</p>
+      </div>
+      <div>
+        <p>This rally, unlike past rallies had one
+important factor. There was a strong
+sincerity in the sisters and brothers
+to rid themselves of the problem of
+discrimination. Often there were black
+sisters standing with emotion filling
+their faces, telling it like it is. Brothers
+were speaking with hard feeling words.
+They often yelled out at the adminis­
+tration telling them to cut out the bull
+and get to the nitty gritty.</p>
+      </div>
+      <div>
+        <p>University administrator J. Winston
+standing on the home economics
+steps looked just like Dennis the Men­
+ance's father after finding out his son had
+done an Injustice to a neighbor. I feel
+that Martin really wanted to help but
+like his friend Robert A, Beach, he knew
+nothing could be done.</p>
+      </div>
+      <div>
+        <p>Beach was called from among the
+spectators to the witness stand but upon
+arriving, declined to answer any ques­
+tions for fear of incriminating himself.
+He kept staring at that big administra­
+tion building in the foreground of the
+steps as if he was under some mystical
+power.</p>
+      </div>
+The black students constantly asked
+the two men what were they going to
+do about a program that proved to be
+based on discrimination. Neither could
+answer although Martin made more at­
+tempts than Beach. The black students
+finally gave up on Beach and continued
+to confront Martin.
+It must be understood here and now
+that the black students want answers
+to these demands. It is clear that Martin
+and Beach cannot supply them. When
+the blacks asked where Elkins was and
+demanded that he come out to the rally,
+Martin stood confused and Beach looked
+stupid.
+Our president must face reality on this
+campus. As one white student put it,
+•this campus is like a powder keg and
+about to go off." Issues such as these
+must be met head on. They ca#t be
+handled by a pacifier of the president.
+This just won’t work anymore.
+Black students have finally gotten
+wise to the tactics used by this univer­
+sity. We are not going to sit by and n
+watch ourselves be made to look like i
+fools while the administration sits%ack
+and laughs at us. This event is not just
+a happening on campus. It is for real
+and these questions presented are going
+to be answered by someone who has
+authority.
+Our white brothers showed thl^ad­
+ministration that this is not just a one
+way process. They threw just as many
+questions to the establishment as blacks
+did.
+Black and white students know change
+must come, but the old roots just
+sprout. Progress Is not checked at the
+student level. The administration is the
+one holding progress up.
+The old stlU have old ideas but the
+young have the new motor.
+BSU calls upon Nero Elkins to hear the
+cries of the students. He must no longer
+place the students in the arena. He must
+no longer let the students fight among
+themselves.
+We ask him to come before us not
+semester but now.
+The members of BSU are now using
+true black power. BSU president Bob
+McLeod says “the white student can
+support this cause." First he must open
+his mind to the fact that blacks are going
+to deal with black problems.
+The white support must come from
+white organizations. This is due to the
+fact that whites relate better to whites
+and can explain their positions on the
+racial situation much more clearly to
+their peers than can a black student.
+This is how black and white work
+together. I ask the white student not
+to get confused on this issue. All people
+are needed in a struggle such as this --
+even Toms and white liberals.</div>
+    </body>
+  </text>
+</TEI>
